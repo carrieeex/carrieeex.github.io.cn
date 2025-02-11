@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Thoughts from Fei-Fei Li&#39;s Talk</title>
+    <url>/cn/2024/07/13/about-lifeifei-and-more/</url>
+    <content><![CDATA[<p>今天在B站看到了关于读李飞飞自传的感想：<a class="link"   href="https://www.bilibili.com/video/BV1u1421k76Q/?share_source=copy_web&vd_source=7ce4f7c9cf9c301069e0016e4a6f99f1" >一个顶级女科学家是如何诞生的？读李飞飞自传有感｜《我看见的世界》<i class="fas fa-external-link-alt"></i></a>，被推送到她的近期演讲：<a class="link"   href="https://www.bilibili.com/video/BV1mT421a7Sk/?share_source=copy_web&vd_source=7ce4f7c9cf9c301069e0016e4a6f99f1" >“AI 之母”李飞飞最新演讲：人工智能的历史与未来<i class="fas fa-external-link-alt"></i></a>，引发了我的一些问题。</p>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1556009423&bvid=BV1u1421k76Q&cid=1611911915&p=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1705898162&bvid=BV1mT421a7Sk&cid=1594996745&p=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Ctuhh8VqtfI" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+<p>She mentioned the history, from the very early time, roughly 540 million years ago, when all species were living underwater, in the sea, and the evolution from no sight to the first species that can sense light, that are able to see, that has vision. This made me wonder, how did the sensory of sound evolve, and what are the first species that can listen, that can hear.</p>
+<p>Hearing is linked with feeling, sometimes we feel instead of hear, sometimes it’s both, depending on the frequency. </p>
+<p>From hearing to communicate, to language, it seems to be an interesting evolution.</p>
+<p>Some articles to read:</p>
+<ul>
+<li><p><a class="link"   href="https://www.science.org/content/article/lets-hear-it-first-ears" >Let’s Hear It for the First Ears | Modern ears showed up 60 million years earlier than previously believed<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.science.org/content/article/early-land-animals-heard-sounds-their-lungs" >Early land animals heard sounds with their lungs | Organs aided hearing until modern ear evolved<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.sciencedaily.com/releases/2015/02/150206125257.htm" >Researchers reveal how hearing evolved<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.newscientist.com/article/dn28244-ears-of-early-humans-could-hear-frequencies-used-in-speech/" >Ears of early humans could hear frequencies used in speech<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.nationalgeographic.com/animals/article/these-worms-hear-with-their-whole-bodies-a-first-in-nature" >Tiny worms ‘hear’ without an eardrum, surprising scientists<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.scientificamerican.com/article/fossils-reveal-when-animals-started-making-noise/" >Fossils Reveal When Animals Started Making Noise<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.abc.net.au/news/science/2023-08-17/sound-communication-animals-evolution-katydids-insects-fossils/102731386" >When did animals start communicating using sound, and why?<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+</ul>
+<p>She also talked about 3D rendering (around 11:00 in the talk). The technology right now allows to auto generate 3D scenes by having simply one photo, which is incredible. Some of the videos she showed is very similar to scenes in games, reminds me of open world games.</p>
+<p>More presentations, talks (videos), and interviews about Fei-Fei Li:</p>
+<ul>
+<li><p><a class="link"   href="https://www.youtube.com/watch?v=gzOwpEupP5w" >What we see and what we value: AI with a human perspective—Fei-Fei Li (Stanford University)<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/gzOwpEupP5w" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+</li>
+<li><p><a class="link"   href="https://www.youtube.com/watch?v=QWWgr2rN45o" >Geoffrey Hinton in conversation with Fei-Fei Li — Responsible AI development<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/QWWgr2rN45o" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+<ul>
+<li>A research mentioned in the conversation: <a class="link"   href="https://ieeexplore.ieee.org/document/6296526" >Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><p>A TED talk by Fei-Fei in 2015: <a class="link"   href="https://www.youtube.com/watch?v=40riCqvRoMs" >李飞飞: 我们怎么教计算机理解图片？<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/40riCqvRoMs" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+</li>
+<li><p><a class="link"   href="https://www.youtube.com/watch?v=lV29vATjoW4" >Fei-Fei Li: One Immigrant’s American Dream<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/lV29vATjoW4" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+<p>Interviews</p>
+<ul>
+<li><p><a class="link"   href="https://www.sohu.com/a/462783585_639570" >独家访谈】精英李飞飞再创新篇-20年前已是女神<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li>The same interview: <a class="link"   href="http://www.360doc.com/content/20/1026/20/72105544_942505545.shtml" >独一无二采访：硅谷精英李飞飞-20年前已是女神<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://www.ithome.com/0/396/091.htm" >《连线》李飞飞专访：AI领域几乎90%是男性，女性太少了<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+</ul>
+<p>Side notes:</p>
+<ul>
+<li><p>Teaching computers to read images, reminds me of the volunteering work I did, to use python tools mark the face-on and face-off actions in ice hockey. It also reminds me of the TV series <em>Person of Interest</em>, and the movie I watched about Eva, <em>WALL-E</em>.</p>
+</li>
+<li><p>Fei-Fei Li also reminds me of another Chinese scientist, Yan Ning 颜宁. Both of them are relatively well-known as female scientists in China. People like them can inspire women like me to pursue our dreams, or 让我们的未来有一个具像化的体现。因为在男性主导的世界里，作为女性，我们需要一些榜样激励我们成长。</p>
+<ul>
+<li>但有时候我会不会先入为主了呢？比如因为feel insecure because most are men, but I can “forget about it” or leave it aside, and just do what I want to do or what I need to do.</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>有的没的</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我与声学 Acoustics &amp; I</title>
+    <url>/cn/2024/07/04/acoustics-00/</url>
+    <content><![CDATA[<p>一些流水账，一些碎碎念。</p>
+<p>Something very personal about my journey in acoustics. </p>
+<span id="more"></span>
+
+<div align="right">
+  语言：简体中文 | 
+  <a title="English" href="../../../../../2024/07/04/acoustics-00/">English</a>
+</div>
+
+<hr>
+<h3 id="启发-Origin"><a href="#启发-Origin" class="headerlink" title="启发 | Origin"></a>启发 | Origin</h3><p>对于声学的兴趣始于一个TED演讲。有段时期很喜欢看<a class="link"   href="https://open.163.com/" >网易公开课<i class="fas fa-external-link-alt"></i></a>。不确定是初中还是高中的哪一天（我推测是高一前后？无历史记录供我考据），看了这个关于声音可视化的演讲：<a class="link"   href="https://open.163.com/newview/movie/free?pid=M7CTOS3LA&mid=M7E3QONCK" >【TED】cymatics技术使声波可视<i class="fas fa-external-link-alt"></i></a>，觉得里面的演示特别酷、特别有趣；也很好看、很艺术。可能还觉得 cymatics 这个词特别新奇，好像就开始搜寻这个关于声音的学科。</p>
+<p><em>Evan Grant: cymatics技术使声波可视</em></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/CsjV1gjBMbQ" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+<ul>
+<li>关于 Evan Grant: <a class="link"   href="https://www.ted.com/speakers/evan_grant" >Why you should listen<i class="fas fa-external-link-alt"></i></a>, <a class="link"   href="https://www.ted.com/profiles/76664" >TED profile<i class="fas fa-external-link-alt"></i></a>.</li>
+</ul>
+<h3 id="搜寻-Searching"><a href="#搜寻-Searching" class="headerlink" title="搜寻 | Searching"></a>搜寻 | Searching</h3><p>或许是在考虑大学专业时，我开始搜索关于 cymatics 和声学相关的课程。可供考据的只有邮件了。由于个人原因，我决定去加拿大读本科。2016年11月，我向某大学发了一封邮件咨询，但没有提及声学。有明确说明的是2017年03月发的一封。现在看来这封邮件特别稚嫩 😂</p>
+<p>前前后后问了许多人：各大学校、几家公司、一些组织，甚至还问了<a class="link"   href="http://www.ioa.cas.cn/" >中科院声学所<i class="fas fa-external-link-alt"></i></a>。幸运的是，大多数都有回复，而且有些人耐心地详细解答，还帮我转发给其他人。我对当时的感激之情无以言表。如果不翻看邮件，我可能永远不会记得这些。我还在知乎上发私信问询，也收到了一些回复。特别开心！</p>
+<p>当时很想在本科阶段学习声学，无奈没有找到在加拿大的项目。有个说法语的大学，奈何不会说法语。基于收到的回复，我决定申请机械工程和理科（物理），最后选择了物理。</p>
+<figure class="highlight plaintext"><figcaption><span>翻到的第一封关于咨询cymatics和声学相关专业的邮件。</span></figcaption><table><tr><td class="code"><pre><span class="line">&gt;Subject: Consultation of Undergraduate Major/Course</span><br><span class="line">&gt;Date: March 14, 2017</span><br><span class="line">&gt;</span><br><span class="line">&gt;University of Ottawa:</span><br><span class="line">&gt;</span><br><span class="line">&gt;I am a student in Grade 11, and I am worried about the major I will choose in the future. Is there any major related to “cymatics”, the study of visualizing sounds? Or anything relative? Or just acoustics? I am very interested in it since I watched a TED video, and I extremely want to know more. I have no idea about any relative major or courses according to my research, so I really need your help. If somebody there know something, please reply to the email as soon as possible. Thanks so much!!!</span><br><span class="line">&gt;</span><br><span class="line">&gt;Sincerely,</span><br><span class="line">&gt;Carrie Cheng</span><br><span class="line">&gt;</span><br><span class="line">&gt;Sent from Mail for Windows 10</span><br></pre></td></tr></table></figure>
+
+<h3 id="学习-Learning"><a href="#学习-Learning" class="headerlink" title="学习 | Learning"></a>学习 | Learning</h3><p>2018年9月，我开始了本科课程的学习。不知怎么地我知道了&#x2F;搜到了学校关于音乐科技的选修<a class="link"   href="https://www.mcgill.ca/music/programs/minor/mat" >MAT<i class="fas fa-external-link-alt"></i></a>和<a class="link"   href="https://www.mcgill.ca/music/programs/minor/mst" >MST<i class="fas fa-external-link-alt"></i></a>。根据邮件记录，我在2018年12月咨询了相关的选修课。2019年10月，我专业的mentor<!--Sabrina Berger-->（一名研究生学姐）告诉我学校有个<a class="link"   href="https://www.cirmmt.org/en/welcome-to-cirmmt" >CIRMMT中心<i class="fas fa-external-link-alt"></i></a>，我可能会感兴趣。在2020年02月左右，我申请了<a class="link"   href="https://www.mcgill.ca/music/programs/minor/mat" >MAT<i class="fas fa-external-link-alt"></i></a>项目，转到<a class="link"   href="https://www.mcgill.ca/music/programs/minor/mst" >MST<i class="fas fa-external-link-alt"></i></a>并被录取。虽然不是所有的课程和作业都让我感兴趣，但总体来说还是不错的。教授们都特别认真负责。</p>
+<figure class="highlight plaintext"><figcaption><span>翻到的关于咨询MAT/MST选修课的邮件。</span></figcaption><table><tr><td class="code"><pre><span class="line">&gt;Subject: Questions about minors</span><br><span class="line">&gt;Date: December 5, 2018</span><br><span class="line">&gt;</span><br><span class="line">&gt;Hello Music department of McGill:</span><br><span class="line">&gt;</span><br><span class="line">&gt;I am currently a U0 Science student in McGill and interested in minoring Musical Applications of Technology or Musical Science and Technology. Can you help me to better distinguish the difference between these two programs?</span><br><span class="line">&gt;</span><br><span class="line">&gt;I have noticed that some math and computer skills are required to apply to these minors. However, I will take my computer science course (COMP 202) in summer 2019. Is it ok to not have it in my CGPA when I apply to this program before May? And is there any course good to take for these two minors in my first year (such as COMP 202)? Also, is there any requirement about musical instruments skills (since I can’t play any)?</span><br><span class="line">&gt;</span><br><span class="line">&gt;Sincerely,</span><br><span class="line">&gt;Carrie Cheng</span><br></pre></td></tr></table></figure>
+
+<p>同样在2020年02月，我通过学校的职业项目<a class="link"   href="https://myalumni.mcgill.ca/s/1762/gid2/interior-getinvolved.aspx?sid=1762&gid=2&pgid=2022" >Job Shadowing Program<i class="fas fa-external-link-alt"></i></a>联系到了在本地一家<a class="link"   href="https://www.softdb.com/" >声学公司<i class="fas fa-external-link-alt"></i></a>工作的校友。在他的邀请下，我参观了他工作的公司。他是机械工程的博士。他的同事有许多博士，几位硕士，和本科实习生。通过与他以及他同事的交流，我了解到一些他们的工作，觉得他们做的事情很有意思，而且他们都对此很有热情。我看到他们写的报告中包含了我在学校学过或者正在学习的知识。他们有很强的专业背景。当时我可能在想：如果我也能像他们这样就好了。或许是那时起，我意识到自己需要进一步学习。</p>
+<figure class="highlight plaintext"><figcaption><span>摘自我的一份硕士申请陈述。</span></figcaption><table><tr><td class="code"><pre><span class="line">Through communicating with alumni working in Soft dB (an acoustical consulting and instruments company in Canada), I see how the knowledge of sound and vibrations I learned from schools is applied in their day-to-day work: they help people to create a more comfortable workplace by analyzing the noise in construction sites and using sound masking systems to reduce the noise level in the office. </span><br></pre></td></tr></table></figure>
+
+<p>大概是大三还是大四，我像当时高中申请本科一样，继续在网上搜寻。也咨询了教授。还在领英上找人问。我发现相对来说欧洲有许多项目。加上其他<a href="../../../../2024/07/03/handpan-00/">个人爱好</a>，我最后决定来欧洲，在瑞典学习<a class="link"   href="https://www.chalmers.se/en/education/find-masters-programme/sound-and-vibration-msc/" >声音和振动<i class="fas fa-external-link-alt"></i></a>。</p>
+<p>来到这以后，我感到很幸运。所有的课程都是我感兴趣的，大家也特别友善：教授、同学、校友，每个人都很亲切。大家互帮互助，像一个大家庭。我有时候在想，我是喜欢物理，喜欢声学，还是喜欢和这些我遇见的人呆在一起？或许多多少少都有一些吧。</p>
+<h3 id="回顾与展望-Looking-Back-Future"><a href="#回顾与展望-Looking-Back-Future" class="headerlink" title="回顾与展望 | Looking Back &amp; Future"></a>回顾与展望 | Looking Back &amp; Future</h3><p>有时我被问到，为什么学习物理、学习声学？其实我没有一个明确的理由。也许是当年的TED演讲里展现的声音可视化的美感打动了我，也许是因为这不是一个常见的选择，也许是因为时间有限，别的学科我还来不及探索。声音和我们的生活如此息息相关，我们每天都在有意无意地感受它。我问过我的同学们一样的问题：为什么选择物理、选择声学？有的人说觉得学物理很酷，有的人说不喜欢学习别的学科，大多都是因为兴趣和热爱，自己想学。如果不是主动了解，许多人可能没有意识到还有声学这样一门学科的存在。</p>
+<p>从本质上来说，它是基于物理，再应用到其他领域，比如工程，心理，音乐，医学，等等。我有想过，如果可以重来，我还会选择读物理、读声学吗？至少目前来说，是的。诚然，我也喜欢文学，喜欢艺术，但是我无法想象自己夜以继日地学习它们，或者以此为生。（不过，如果我的生命无限长，我确实想把每个领域都了解一下。）我欣赏文学家，艺术家，欣赏每个在各个领域内做得很好的人。但我深知，我不是他们。</p>
+<p>我记得在一些硕士项目申请书中，我写到，或许因为<a class="link"   href="https://ccrma.stanford.edu/people/thomas-rossing" >Thomas Rossing<i class="fas fa-external-link-alt"></i></a>这样的有专业知识的学者，他们帮助了<a class="link"   href="https://en.wikipedia.org/wiki/Hang_(instrument)" >Hang®<i class="fas fa-external-link-alt"></i></a>的调音技术（参考<a class="link"   href="https://www.swissinfo.ch/eng/culture/life-changing-a-chimera-or-just-a-drum/38515012" >这篇文章<i class="fas fa-external-link-alt"></i></a>），我们才得以听见如此美妙的声音。这种艺术与科学的相辅相成，让我深深地着迷。声学，就是这样的一门学科。它涉猎如此之广。它简单又复杂。它古老也新奇。随着科学技术的发展，随着大家越来越关注自己的感受与体验，追求一个良好的、可持续的环境，我相信这门学科的研究不会停止。我只是学习了很小的一部分，还有太多等我去探索。</p>
+<figure class="highlight plaintext"><figcaption><span>摘自我的一份硕士申请陈述。</span></figcaption><table><tr><td class="code"><pre><span class="line">... the handpan instrument, a metallic percussion instrument played with hands. It consists of two hemispherical shells of nitrided or stainless steel. I was amazed by its extraordinary sound when I first listened to its music piece. When I dived into its history, I found it was created with the help of Professor Thomas Rossing, a physicist with a significant contribution in musical acoustics (also one of the authors of The Science of Sound, the leading textbook in the field as I mentioned). He and his colleagues studied the vibration modes and sound radiation modes to improve the sound generated from the instrument, together with the manufacturers - this is where I see the beauty and significance of the collaboration between scholars and industrial musical instrument manufacturers. Without scientific research, it might not have been invented. I hope to study the acoustical properties of handpan-like instruments and...</span><br></pre></td></tr></table></figure>
+
+<h3 id="时间线｜Timeline"><a href="#时间线｜Timeline" class="headerlink" title="时间线｜Timeline"></a>时间线｜Timeline</h3><div class="timeline">
+  <!-- Timeline Event 1 -->
+  <div class="container left">
+    <div class="content">
+      <div class="time">2013-2017之间的某一天</div>
+      <p>📺 看了个关于声音可视化的<a class="link"   href="https://open.163.com/newview/movie/free?pid=M7CTOS3LA&mid=M7E3QONCK"  target="_blank">TED演讲<i class="fas fa-external-link-alt"></i></a></p>
+      <div class="location">🇨🇳</div>
+    </div>
+  </div>
+  <!-- Timeline Event 2 -->
+  <div class="container right">
+    <div class="content">
+      <div class="time">2017/03-2017/10</div>
+      <p>📧 发邮件向许多大学、公司、组织咨询声学专业</p>
+      <div class="location">🇨🇳</div>
+    </div>
+  </div>
+  <!-- Timeline Event 3 -->
+  <div class="container left">
+    <div class="content">
+      <div class="time">2017/03/19</div>
+      <p>#️⃣ 在知乎上关注<a class="link"   href="https://www.zhihu.com/topic/19612120"  target="_blank">#声学<i class="fas fa-external-link-alt"></i></a>话题</p>
+      <div class="location">🇨🇳</div>
+    </div>
+  </div>
+  <!-- Timeline Event 4 -->
+  <div class="container right">
+    <div class="content">
+      <div class="time">2018/09</div>
+      <p>⚛️ 开始在<a class="link"   href="https://www.mcgill.ca/"  target="_blank">麦吉尔大学<i class="fas fa-external-link-alt"></i></a>学习<a class="link"   href="https://www.mcgill.ca/undergraduate-admissions/program/physics-faculty-science"  target="_blank">物理本科课程<i class="fas fa-external-link-alt"></i></a></p>
+      <div class="location">🇨🇦</div>
+    </div>
+  </div>
+  <!-- Timeline Event 5 -->
+  <div class="container left">
+    <div class="content">
+      <div class="time">2020/03</div>
+      <p>🏢 拜访了本地声学咨询公司<a class="link"   href="https://www.softdb.com"  target="_blank">Soft dB<i class="fas fa-external-link-alt"></i></a></p>
+      <div class="location">🇨🇦</div>
+    </div>
+  </div>
+  <!-- Timeline Event 6 -->
+  <div class="container right">
+    <div class="content">
+      <div class="time">2020/09</div>
+      <p>🎛️ 开始选修<a class="link"   href="https://www.mcgill.ca/music/programs/minor/mst"  target="_blank">音乐科技<i class="fas fa-external-link-alt"></i></a>课程</p>
+      <div class="location">🇨🇦</div>
+    </div>
+  </div>
+  <!-- Timeline Event 7 -->
+  <div class="container left">
+    <div class="content">
+      <div class="time">2022/08</div>
+      <p>〰️ 开始在<a class="link"   href="https://www.chalmers.se/en/"  target="_blank">查尔姆斯理工大学<i class="fas fa-external-link-alt"></i></a>学习<a class="link"   href="https://www.chalmers.se/en/education/find-masters-programme/sound-and-vibration-msc/"  target="_blank">声音与振动硕士课程<i class="fas fa-external-link-alt"></i></a></p>
+      <div class="location">🇸🇪</div>
+    </div>
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <i>未完待续......</i>
+</div>
+]]></content>
+      <categories>
+        <category>声学</category>
+        <category>关于我</category>
+      </categories>
+      <tags>
+        <tag>acoustics</tag>
+        <tag>声学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>与我联系 Contact Me</title>
+    <url>/cn/2024/07/02/contact-me/</url>
+    <content><![CDATA[<p>欢迎在以下平台与我联系。</p>
+<p>Feel free to contact me through any of the following platforms.</p>
+<span id="more"></span>
+
+<ul>
+<li><p><strong>邮件 Email</strong>: <a href="mailto:carriecheng000@outlook.com"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/outlook.png"
+                        class="" width="50" height="50" title="Outlook"
+                 ></a></p>
+</li>
+<li><p><strong>领英 LinkedIn</strong>: <a href="https://www.linkedin.com/in/jialicheng/"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/linkedin.png"
+                        class="" width="50" height="50" title="LinkedIn"
+                 ></a></p>
+</li>
+<li><p><strong>GitHub</strong>: <a href="https://github.com/carrieeex"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/github.png"
+                        class="" width="50" height="50" title="GitHub: carrieeex"
+                 ></a></p>
+</li>
+</ul>
+<!-- more 
+
+- **YouTube**: [<img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/youtube.png"
+                        class="" width="50" height="50" title="Youtube: DBSxdB"
+                 >](https://www.youtube.com/@DBSxdB)
+
+<ul>
+<li><p><strong>哔哩哔哩 bilibili</strong>: <a href="https://b23.tv/neYS1X7"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/bilibili.png"
+                        class="" width="50" height="50" title="bilibili: DBSxdB"
+                 ></a></p>
+</li>
+<li><p><strong>小红书 Xiaohongshu</strong>: <a href="https://www.xiaohongshu.com/user/profile/5b9ec01ef110cc0001f84efe?xhsshare=CopyLink&appuid=5b9ec01ef110cc0001f84efe&apptime=1719955131"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/xiaohongshu.png"
+                        class="" width="50" height="50" title="RED: KL"
+                 ></a></p>
+</li>
+<li><p><strong>Facebook</strong>: <a href="https://www.facebook.com/carriexcjl/"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/facebook.png"
+                        class="" width="50" height="50" title="Facebook: carriexcjl"
+                 ></a></p>
+</li>
+<li><p><strong>Instagram</strong>: <a href="https://www.instagram.com/carriexcjl"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/instagram.png"
+                        class="" width="50" height="50" title="Instagram: carriexcjl"
+                 ></a></p>
+</li>
+<li><p><strong>Spotify</strong>: <a href="https://open.spotify.com/user/31whkl22bmwnle3hjk7cje2j3s7i"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/spotify.png"
+                        class="" width="50" height="50" title="Spotify: Carrie"
+                 ></a></p>
+</li>
+<li><p><strong>Steam</strong>: <a href="https://steamcommunity.com/profiles/76561199051051292"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/steam.png"
+                        class="" width="50" height="50" title="Steam: carrieeex"
+                 ></a></p>
+</li>
+<li><p><strong>Postcrossing</strong>: <a href="https://www.postcrossing.com/user/carriexc"><img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/logo/postcrossing.jpg"
+                        class="" width="50" height="50" title="Postcrossing: carriexc"
+                 ></a></p>
+</li>
+</ul>
+<p>–&gt;</p>
+]]></content>
+      <categories>
+        <category>关于我</category>
+      </categories>
+      <tags>
+        <tag>联系方式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我与手碟 Handpan &amp; I</title>
+    <url>/cn/2024/07/03/handpan-00/</url>
+    <content><![CDATA[<!-- more -->
+
+<div align="right">
+  语言：简体中文 | 
+  <a title="English" href="../../../../../2024/07/03/handpan-00/">English</a>
+</div>
+
+<hr>
+<h3 id="2016-初识"><a href="#2016-初识" class="headerlink" title="2016 - 初识"></a>2016 - 初识</h3><p>一切都要从一部电视剧说起。是的，我相信很多人已经猜到了。2016年的夏天，我看着<a class="link"   href="https://baike.baidu.com/item/%E5%A5%BD%E5%85%88%E7%94%9F/18262928" >电视剧《好先生》<i class="fas fa-external-link-alt"></i></a>，被片头的乐器吸引：这个像锅一般的乐器是什么？我开始搜索。也许是看了<a class="link"   href="https://www.zhihu.com/question/47718371" >知乎上的问答<i class="fas fa-external-link-alt"></i></a>和<a class="link"   href="http://kpzg.people.com.cn/n1/2016/0714/c404390-28552834.html" >这篇文章<i class="fas fa-external-link-alt"></i></a>，我知道了这个乐器叫 <a class="link"   href="https://en.wikipedia.org/wiki/Hang_(instrument)" >Hang®<i class="fas fa-external-link-alt"></i></a>，来自瑞士。因版权问题其他的都叫 <a class="link"   href="https://en.wikipedia.org/wiki/Handpan" >Handpan<i class="fas fa-external-link-alt"></i></a>，中文大家称之为<a class="link"   href="https://zh.wikipedia.org/wiki/%E6%89%8B%E7%A2%9F" >手碟<i class="fas fa-external-link-alt"></i></a>。其实初印象我已经不太记得了。或许我没有深究，但埋下了种子。或许是从那时起，我知道了<a class="link"   href="https://space.bilibili.com/516853959?spm_id_from=333.788.0.0" >石磊<i class="fas fa-external-link-alt"></i></a>（创作《好先生》插曲<a class="link"   href="https://youtu.be/PhtP8YuxzAQ?si=WPP5gA_gfiL4h-Hz" >《烟雨青黛》<i class="fas fa-external-link-alt"></i></a>，独立音乐人），<a class="link"   href="http://www.xuansoundhandpan.com/xuan.asp" >玄音<i class="fas fa-external-link-alt"></i></a>（国内手碟品牌）。</p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/luWj7YXJ-Ho" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>PANArt - Hang® Sculpture</em><br><br></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Do7uU13V_hQ" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>PANArt Hang documentary 2006: HANG - a discreet revolution</em><br><br></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/17ojj7tgrqw" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Manu Delago - Hang solo (Mono Desire)</em></p>
+<h3 id="2021-再探"><a href="#2021-再探" class="headerlink" title="2021 - 再探"></a>2021 - 再探</h3><p>就这样过了四五年。中间有没有想起也不得而知。也许是因为疫情在家，也许是其他原因，在2021年1月底，我又看起了手碟演奏视频。相较于之前来说手碟已经发展了许多。当时在各大平台搜索，加入了一个豆瓣小组 <a class="link"   href="https://www.douban.com/group/hangdrum/?dt_dapp=1" >Hang Club<i class="fas fa-external-link-alt"></i></a>，然后进了一个微信群（手碟互助小队）。也发邮件咨询 <a class="link"   href="https://panart.ch/" >PANArt<i class="fas fa-external-link-alt"></i></a>，奈何无法动身去实地观赏，想买手碟的念头不了了之。</p>
+<p>之后或许时不时地会想起。被动或者主动。比如在学校做的课程项目：<a href="https://carrieeex.github.io/MUMT306-project/">MUMT 306 - Fall 2021</a> 和 <a href="https://carrieeex.github.io/MUMT307-project/">MUMT 307 - Winter 2022</a>。虽然做这些不是我本意，我更喜欢现场听到的来自真实的乐器的声音，但手碟为我的作业提供了一些灵感。</p>
+<figure class="highlight plaintext"><figcaption><span>EMAIL REPLY FROM: David Rohner | PANArt <david.rohner@panart.ch></span></figcaption><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">Hello Jiali Cheng,</span><br><span class="line"> </span><br><span class="line">thank you for your mail and the interest in our work.</span><br><span class="line">As you may know, we invite interested persons from time to time to come to Bern and try our different Sound Sculptures.</span><br><span class="line">At the moment this is not possible – due to the pandemic and the restrictions. </span><br><span class="line"> </span><br><span class="line">As soon as you are in Switzerland and would like to visit, please write us to arrange a visit. You do not have to make a reservation.</span><br><span class="line">We do not have a waiting list. Whenever its convenient for your, you can write, visit and try the different Hang. If there is one you like, it is normally possible t acquire it then.</span><br><span class="line"> </span><br><span class="line">You can find further information below. Good things come in slow.</span><br><span class="line"> </span><br><span class="line">Regards and many thanks</span><br><span class="line"></span><br><span class="line">David Rohner</span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line">PANArt has received your email expressing interest in our sound sculptures. Thank you very much.</span><br><span class="line"> </span><br><span class="line">After the Hang Sculpture, the Hang Gubal and the Hang Bal, the new instrument Hang Balu has also met with great interest and is already being actively explored by many hands. The tuning art of the PANArt tuners is based on the knowledge that only hammering the material -in our case the pang composite- leads to instruments that serve the human being to tune into life. So it is understandable that such works are not produced in large numbers. Since the beginnings of sound sculpting here in Bern, it has been clear to the PANArt tuners: mass production is not an option.</span><br><span class="line"> </span><br><span class="line">As you can see from our homepage, the range of Hang sound sculptures has changed a lot in recent years. New forms and concepts have emerged, all of which are intended to allow the players to create the sounding music freely in the moment. Beyond performance, pressure and virtuosity, they allow access for all interested persons. They are, so to speak, tools that help to realize the music that lies dormant within.</span><br><span class="line">A considerable number of sheet metal instruments, which are visually oriented towards the Hang and usually also violate PANArt AG rights, can be found in many places. We recommend that you inform yourself well about Hang and Handpan (plagiarisms of our Hang sculpture). </span><br><span class="line"> </span><br><span class="line">From time to time we invite interested people to visit us in Bern to get to know the different Hanghang (plural of Hang). Feeling and playing these soundscapes is very important - each one is unique. Without obligation and in peace and quiet, you may immerse yourself in the world of Hang at our atelier. On these days it is also possible to choose a sound sculpture and take it with you.</span><br><span class="line"> </span><br><span class="line">We recommend that you explore the various possibilities in advance - listen and watch the different sound sculptures of the Hang brand on our homepage and our YouTube channel.</span><br><span class="line"> </span><br><span class="line">    · The Hang Balu enables a musical exchange in a collective, far away from expectations and pressure to perform. The instruments offer themselves as a common denominator, as a universal language to which everyone has access. When playing collectively, only a small contribution is needed from the individual player to create a complex web of sound - always carried by the pulse. The Hang Balu is the latest fruit of PANArt research. All the qualities of the previous Hanghang are found here again.</span><br><span class="line"> </span><br><span class="line">    · The Hang Bal play is a dance. The player becomes the instrument. The Hang Bal game gives the individual musical space on a common groove. Together, a round dance is created. Whoever has music inside will find a place here.</span><br><span class="line"> </span><br><span class="line">    · The Hang Sculpture is still built by PANArt for specific purposes. We also integrate its qualities in the new Hang Balu. This can be understood as a more grounded and refined successor to the Hang Sculpture.</span><br><span class="line"> </span><br><span class="line">You can find more information about the Hang sound sculptures on our homepage under the category &quot;Instruments&quot;.</span><br><span class="line">For a deeper insight into our work, we recommend reading our book &quot;Hang - sound sculpture&quot;. By reading this book the essential backgrounds and basics of our sound sculptures will unfold more easily for you. </span><br><span class="line"> </span><br><span class="line">It is part of our business culture since many years that we demand the signature of an agreement between our customers and PANArt, where our customers declare to relinquish from speculation by reselling their instruments. You can find the prices of our sound sculptures below. Swiss taxes, a cleaning fluid, a backpack and a natural fiber shell (made in Germany) are always included.</span><br><span class="line"></span><br><span class="line">If you would like to travel to Bern on a visiting day to explore the PANG landscapes with your hands, please let us know with your full address. As soon as it is possible to receive visitors again, we will inform you about planned dates. However, due to the current situation with the corona virus, we have decided not to announce any visit days for the next few weeks - even the near future is difficult to plan for at the moment.  As longer travels should be avoided as much as possible at the moment, it is also possible to receive a sound sculpture by post. If you are interested, we recommend that you inform yourself well about the different Hanghang and consider the above-mentioned book.</span><br><span class="line"> </span><br><span class="line">With regards from Bern</span><br><span class="line"></span><br><span class="line">The PANArt Team</span><br><span class="line">Sabina Schärer, Felix Rohner, Basil Rohner, David Rohner</span><br><span class="line"></span><br><span class="line">PANArt Hangbau AG</span><br><span class="line">Engehaldenstr.131</span><br><span class="line">3012 Bern</span><br><span class="line">Switzerland</span><br><span class="line">www.panart.ch</span><br><span class="line"> </span><br><span class="line">The prices of the available instruments:</span><br><span class="line">Sound sculpture Hang® Bal, including a suitcase made of natural fibers and a carrying bag (made in Germany/Winter GmbH), cleaning fluid and 7.7% VAT CHF 2500        </span><br><span class="line"> </span><br><span class="line">Sound sculpture Hang® Balu, including a suitcase made of natural fibers and a carrying bag (made in Germany/Winter GmbH), cleaning fluid and 7.7% VAT CHF 2500   </span><br><span class="line">Hang Balu Duo (Two Hang Balus, incl. a suitcase made of natural fibers and a carrying bag (made in Germany/Winter GmbH), cleaning fluid and 7.7% VAT) CHF 4500</span><br><span class="line">Hang Balu Set (Balu Sui, Balu Sai, Balu Sei, Hang Godo, incl. a suitcase made of natural fibers and a carrying bag (made in Germany/Winter GmbH), cleaning fluid and 7.7% VAT) CHF 6000</span><br><span class="line"> </span><br><span class="line">These instruments can be ordered online and will be sent:</span><br><span class="line">Hang® Balu Urgu including a suitcase made of natural fibers, back pack, cleaning fluid and 7.7% VAT CHF 770  </span><br><span class="line">Hang® Gudu including a suitcase made of natural fibers, cleaning fluid and 7.7% VAT CHF 540 </span><br><span class="line">Hang® Godo including a suitcase made of natural fibers, cleaning fluid and 7.7% VAT CHF 540 </span><br><span class="line">Hang® Gede including a soft bag and cleaning fluid and 7.7% VAT   CHF 230 </span><br></pre></td></tr></table></figure>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/EDQgU1CPpis" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Solo Hang Drum in a Tunnel | Daniel Waples - Hang in Balance | London - England [HD]</em><br><br></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/xk3BvNLeNgw" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Hang Massive - Once Again - 2011 ( hang drum duo ) ( HD )</em></p>
+<h3 id="2022-接触"><a href="#2022-接触" class="headerlink" title="2022 - 接触"></a>2022 - 接触</h3><p>之后我来到了欧洲，某种程度上也是因为手碟。来这边不久我就去找<a class="link"   href="https://www.facebook.com/FranzenInstruments/" >当地的手碟制作者<i class="fas fa-external-link-alt"></i></a>。第一次亲眼看见手碟特别高兴！当即决定要订购一个。我也因此买了<a class="link"   href="https://book.douban.com/subject/35789412/" >教材<i class="fas fa-external-link-alt"></i></a>。然而运气不佳，制作没能按照计划进行。</p>
+<img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/handpan-00/2022-10-22-handpan.jpg"
+                        class="" width="400" title="a handpan A handpan made by Franzen Instruments."
+                 >
+<p><em>由 <a class="link"   href="https://www.facebook.com/FranzenInstruments/" >Franzen Instruments<i class="fas fa-external-link-alt"></i></a>制作的手碟。</em></p>
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/XOrrje7alNE" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Marcel Hutter - Granit</em><br><br></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/6oremFnbgO0" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Sam Maher - New York Handpan 01</em><br><br></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/SpQQs6fLXVQ" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Sam Maher - New York Handpan 02</em></p>
+<h3 id="2023-入手"><a href="#2023-入手" class="headerlink" title="2023 - 入手"></a>2023 - 入手</h3><p>我在网上搜寻，订购了 <a class="link"   href="https://yataoshop.com/collections/handpans/products/yataopan-dkurd-10" >YataoPan<i class="fas fa-external-link-alt"></i></a>。期待与忐忑之中收到包裹，比想象中大。坦白说，不是我最想要的颜色，但是好听就够了！我终于拥有一个手碟，终于可以开始玩了！</p>
+<img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/handpan-00/2023-02-13-package.jpg"
+                        class="" width="400" title="package The package I received on February 2, 2023."
+                 >
+<p><em>我在2023年2月2日收到的包裹。</em></p>
+<img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/handpan-00/2023-02-13-handpan.jpg"
+                        class="" width="400" title="Unboxing. Unboxing."
+                 >
+<p><em>拆箱。</em></p>
+<img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/handpan-00/2023-02-13-handpanWithStand.jpg"
+                        class="" width="400" title="handpan + stand The handpan on a stand."
+                 >
+<p><em>手碟，<a class="link"   href="https://www.thomann.de/se/thomann_tongue_drum_handpan_stand_85.htm" >架子<i class="fas fa-external-link-alt"></i></a>.</em></p>
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/RJIKg_gVR6I" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Sam Maher &amp; Manu Delago - Whitechapel | A Take Away Show</em><br><br></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/csOWxih7QA4" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Kate Stone I “Urban” official video I Opsilon Handpan</em><br><br></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/yG85xw54bno" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Handpan Guitarviola | Yuki Koshimoto Fugaku Yohei |</em></p>
+<h3 id="2024-学习"><a href="#2024-学习" class="headerlink" title="2024 - 学习"></a>2024 - 学习</h3><p>闲暇时期，我偶尔玩一玩手碟。大多时候是随兴而为，而非刻意练习。某一天，不知怎么地，突然发现 <a class="link"   href="https://www.manudelago.com/" >Manu Delago<i class="fas fa-external-link-alt"></i></a> 在奥地利<a class="link"   href="https://konzerthaus.at/" >维也纳音乐厅<i class="fas fa-external-link-alt"></i></a>有<a class="link"   href="https://konzerthaus.at/concert/eventid/60991" >演出<i class="fas fa-external-link-alt"></i></a>。当即决定买票去看。</p>
+<p>（题外话：刚开始可能是太兴奋了，以至于把场地看错，误以为在<a class="link"   href="https://www.musikverein.at/en/" >金色大厅<i class="fas fa-external-link-alt"></i></a>😂，因为一直想去金色大厅参观。朋友提醒我才意识到是另一个。同一天<a class="link"   href="https://www.langlangofficial.com/" >郎朗<i class="fas fa-external-link-alt"></i></a>在金色大厅<a class="link"   href="https://www.musikverein.at/konzert/?id=0004e11e" >演出<i class="fas fa-external-link-alt"></i></a>，可惜不能分身去看。）</p>
+<p>中场休息的时候去舞台前看 Manu 的手碟，和旁边的观众闲聊。我问他 Manu 在演奏期间说了什么（因为我不懂德语），我们就这样聊了起来。他叫 <a class="link"   href="https://andywinkler.com/" >Andy<i class="fas fa-external-link-alt"></i></a>，是作曲家、老师，也玩手碟。他邀请我去他的工作室上课。我行程匆忙，他恰好第二天有时间。一切都是那么神奇。</p>
+<p>最近（六月底），我在一个会议里作为志愿者工作。在沉浸式音频展厅里，我听见音响播放手碟的声音。虽然视频画面还没出现，但我立刻认出这是手碟，因为它的音色太独特，太好听了。当时播放的是 <a class="link"   href="https://www.martinkaelberer.com/" >Martin Kälberer<i class="fas fa-external-link-alt"></i></a> 的一个现场演出，由 <a class="link"   href="https://www.msm-studios.com/stefan-bock" >Stefan Bock<i class="fas fa-external-link-alt"></i></a> 混音。</p>
+<img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/handpan-00/2024-05-29-concert.jpg"
+                        class="" title="concert The concert &gt;&gt;Between Us&lt;&lt; on May 29, 2024."
+                 >
+<p><em>音乐会 <a class="link"   href="https://konzerthaus.at/concert/eventid/60991" >&gt;&gt;Between Us&lt;&lt;<i class="fas fa-external-link-alt"></i></a>，2024年5月29日于奥地利维也纳。</em></p>
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/jljQnU-hIns" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>Anoushka Shankar &amp; Manu Delago with Metropole Orkest Strings - Live at Le Guess Who?</em><br><br></p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/nHnVadt0xds" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p><em>MARTIN KÄLBERER – RAUM</em></p>
+<h3 id="时间线"><a href="#时间线" class="headerlink" title="时间线"></a>时间线</h3><div class="timeline">
+    <!-- Timeline Event 1 -->
+    <div class="container left">
+        <div class="content">
+            <div class="time">2016-夏天</div>
+            <p>初识手碟</p>
+        </div>
+    </div>
+    <!-- Timeline Event 2 -->
+    <div class="container right">
+        <div class="content">
+            <div class="time">2021-1月底</div>
+            <p>再探</p>
+        </div>
+    </div>
+    <!-- Timeline Event 3 -->
+    <div class="container left">
+        <div class="content">
+            <div class="time">2022-02-22</div>
+            <p>购入 <a class="link"   href="https://hanginbalance.bandcamp.com/merch/handpandant-orgonite"  target="_blank">HandPandant (orgonite)<i class="fas fa-external-link-alt"></i></a></p>
+        </div>
+    </div>
+    <!-- Timeline Event 4 -->
+    <div class="container right">
+        <div class="content">
+            <div class="time">2022-10-22</div>
+            <p>接触</p>
+        </div>
+    </div>
+    <!-- Timeline Event 5 -->
+    <div class="container left">
+        <div class="content">
+            <div class="time">2022-10-23</div>
+            <p>购入 <a class="link"   href="https://book.douban.com/subject/35789412/"  target="_blank">《手碟演奏教程》<i class="fas fa-external-link-alt"></i></a></p>
+        </div>
+    </div>
+    <!-- Timeline Event 6 -->
+    <div class="container right">
+        <div class="content">
+            <div class="time">2022-10-29</div>
+            <p>预定 D kurd 10</p>
+        </div>
+    </div>
+    <!-- Timeline Event 7 -->
+    <div class="container left">
+        <div class="content">
+            <div class="time">2023-02-03</div>
+            <p>订购 <a class="link"   href="https://yataoshop.com/collections/handpans/products/yataopan-dkurd-10"  target="_blank">YATAO D Kurd 10 stainless steel<i class="fas fa-external-link-alt"></i></a></p>
+        </div>
+    </div>
+    <!-- Timeline Event 8 -->
+    <div class="container right">
+        <div class="content">
+            <div class="time">2023-02-13</div>
+            <p>收到包裹📦！</p>
+        </div>
+    </div>
+    <!-- Timeline Event 9 -->
+    <div class="container left">
+        <div class="content">
+            <div class="time">2024-05-29</div>
+            <p>首次观演 <a class="link"   href="https://konzerthaus.at/concert/eventid/60991"  target="_blank">手碟相关音乐会<i class="fas fa-external-link-alt"></i></a>，演奏者 <a class="link"   href="https://www.manudelago.com/"  target="_blank">Manu Delago<i class="fas fa-external-link-alt"></i></a>, <a class="link"   href="https://www.anoushkashankar.com/"  target="_blank">Anoushka Shankar<i class="fas fa-external-link-alt"></i></a>, Mosaik String Orchestra & <a class="link"   href="https://www.julesbuckley.com/"  target="_blank">Jules Buckley<i class="fas fa-external-link-alt"></i></a></p>
+        </div>
+    </div>
+    <!-- Timeline Event 10 -->
+    <div class="container right">
+        <div class="content">
+            <div class="time">2024-05-30</div>
+            <p>课堂体验，老师 <a class="link"   href="https://andywinkler.com"  target="_blank">Andy Winkler<i class="fas fa-external-link-alt"></i></a></p>
+        </div>
+    </div>
+</div>
+
+<div style="text-align: center;">
+  <i>未完待续......</i>
+</div>
+]]></content>
+      <categories>
+        <category>关于我</category>
+        <category>手碟</category>
+      </categories>
+      <tags>
+        <tag>handpan</tag>
+        <tag>Hang®</tag>
+        <tag>手碟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于手碟 About Hang® &amp; Handpan</title>
+    <url>/cn/2024/07/06/handpan-rsc/</url>
+    <content><![CDATA[<p>此篇文章记录我收藏的一些网站，以便查看。</p>
+<p>This post collects online resources I have saved for my convenience.</p>
+<span id="more"></span>
+
+<div align="right">
+  语言：简体中文 | 
+  <a title="English" href="../../../../../2024/07/06/handpan-rsc/">English</a>
+</div>
+
+<hr>
+<h2 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h2><ul>
+<li><a class="link"   href="https://panart.ch/" >PANart<i class="fas fa-external-link-alt"></i></a>:<br>“a Swiss company based in Bern”,<br>“developed the now world-famous Hang® sculpture”.<ul>
+<li><a class="link"   href="https://www.hangblog.org/" >hangblog.org<i class="fas fa-external-link-alt"></i></a>:<br>  “A Documentation Project about PANArt, the Hang and other Pang instruments”.</li>
+</ul>
+</li>
+<li><a class="link"   href="https://handpan-timeline.org/" >handpan-timeline.org<i class="fas fa-external-link-alt"></i></a>:<br>“the most complete archive of the history of the Handpan”.</li>
+</ul>
+<h2 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h2><ul>
+<li><p><a class="link"   href="https://paniverse.org/" >PANIVERSE.ORG<i class="fas fa-external-link-alt"></i></a>:<br>“keeps your vibes in balance”, a private website about handpan blogs, <a class="link"   href="https://paniverse.org/events/" >events<i class="fas fa-external-link-alt"></i></a>, <a class="link"   href="https://paniverse.org/handpan-makers-by-country/" >makers<i class="fas fa-external-link-alt"></i></a>, and more.</p>
+</li>
+<li><p><a class="link"   href="https://www.masterthehandpan.com/blog" >Blog<i class="fas fa-external-link-alt"></i></a> by <a class="link"   href="https://www.masterthehandpan.com/" >Master the Handpan<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="http://www.hangdrumsandhandpans.com/" >HANDPANS MAGAZINE<i class="fas fa-external-link-alt"></i></a> (last updated in 2019)</p>
+</li>
+</ul>
+<h2 id="玩家"><a href="#玩家" class="headerlink" title="玩家"></a>玩家</h2><ul>
+<li><p><a class="link"   href="https://www.manudelago.com/" >Manu Delago<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a href="https://youtu.be/17ojj7tgrqw?si=yRJmi5tr3qIKu2zZ"><em>Manu Delago - Hang solo (Mono Desire)</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/17ojj7tgrqw" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a class="link"   href="https://www.parasolpeak.com/" >Parasol Peak<i class="fas fa-external-link-alt"></i></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/CmXzCB-BBMI" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a class="link"   href="https://fm4v3.orf.at/stories/1693711/index.html" >Tyrolian Hang player Manu Delago returns to Austria<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://paniverse.org/manu/" >Creativity, Music, Sounds, the Hang®, Handpans, Percussion – a talk with Manu Delago<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://15questions.net/interview/fifteen-questions-interview-manu-delago/page-1/" >Fifteen Questions Interview with Manu Delago<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://metronome.uk.com/features/manu-delago-interview/" >60 SECONDS WITH PERCUSSIONIST AND COMPOSER MANU DELAGO<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="http://musicalmind.altervista.org/interview-with-manu-delago-musician-and-environmental-activist/" >Interview with Manu Delago: musician and environmental activist<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://hanginbalance.com/" >Daniel Waples<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a href="https://youtu.be/6oremFnbgO0"><em>Solo Hang Drum in a Tunnel | Daniel Waples - Hang in Balance | London - England [HD]</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/EDQgU1CPpis" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a href="https://youtu.be/fuaGV7M1qeI"><em>Handpan - Amplification of Vibration | Daniel Waples | TEDxCharlottesville</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/fuaGV7M1qeI" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a class="link"   href="http://www.hangdrumsandhandpans.com/2013/03/an-interview-with-daniel-waples-man.html" >An Interview with Daniel Waples - The Man Behind the Hang<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://marcelhutter.com/" >Marcel Hutter<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a href="https://youtu.be/XOrrje7alNE"><em>Marcel Hutter - Granit</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/XOrrje7alNE" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a href="https://youtu.be/zThfsgi0QcM?si=QUt_eR7ogO6vOghL"><em>Marcel Hutter - “time for change”</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/zThfsgi0QcM" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a href="https://youtu.be/FsOPqDDc54Y"><em>Marcel Hutter - a fabulous melody</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/FsOPqDDc54Y" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a href="https://youtu.be/bsMIhimbnLI?si=AF_f-byY4-b9yqSU"><em>Marcel Hutter &amp; Band - Heart of Glass - live @Griasdi 2023</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/bsMIhimbnLI" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://www.sam-maher.com/" >Sam Maher<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a href="https://youtu.be/6oremFnbgO0"><em>Sam Maher - New York Handpan 01</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/6oremFnbgO0" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<ul>
+<li><a class="link"   href="https://www.novapans.com/learning-handpan-pieces-sam-mahers-ny-part-i/" >Learning Handpan Pieces | Sam Maher’s NY Part I<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><a href="https://youtu.be/SpQQs6fLXVQ"><em>Sam Maher - New York Handpan 02</em></a>   <div class="video-container"><iframe src="https://www.youtube.com/embed/SpQQs6fLXVQ" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li>An article about <a class="link"   href="https://www.blogotheque.net/articles/sam-maher/" >Sam Maher<i class="fas fa-external-link-alt"></i></a><br>  <a href="https://youtu.be/RJIKg_gVR6I"><em>Sam Maher &amp; Manu Delago - Whitechapel | A Take Away Show</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/RJIKg_gVR6I" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li>His <a class="link"   href="https://www.tedmed.com/talks/show?id=678181" >TEDMED performance<i class="fas fa-external-link-alt"></i></a><br>  <a href="https://youtu.be/6WTx1IglsFU"><em>The transcendent power of music</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/6WTx1IglsFU" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a class="link"   href="https://youtu.be/-xgnQKQnwLQ" >Living Room sESSion - Sam Maher Live Concert<i class="fas fa-external-link-alt"></i></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/-xgnQKQnwLQ" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a class="link"   href="https://naralimones.wordpress.com/2020/12/14/interview-with-sam-maher-master-of-handpan/" >Interview with Sam Maher, Master of Handpan<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://www.themelodywithin.com/eng" >Kate Stone<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a href="https://youtu.be/yRwIW0D02xw?si=O0QLQ30C4B3g7171"><em>Kate Stone I “Urban” I Opsilon Handpan</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/yRwIW0D02xw" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://www.youtube.com/@YukiKoshimoto" >Yuki Koshimoto<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a href="https://youtu.be/Yv6WmZynpNg?si=is94fCELtx2guDCQ"><em>Handpan music | Yuki Koshimoto</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/Yv6WmZynpNg" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+<li><a href="https://youtu.be/oCxHiZzCCYc?si=6d0udgU-gCDpTQdF"><em>Handpan Guitarviola | Yuki Koshimoto | Fugaku Yohei</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/oCxHiZzCCYc" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://www.kabecao.com/" >Kabeção<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a href="https://youtu.be/HESjC9o_pg0?si=kmGqFjbeiXjE25Za"><em>Kabeção - Land of Cole ( Touching Souls - Studio Sessions ) Handpan Pantam</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/HESjC9o_pg0" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://hangmassive.com/" >Hang Massive<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a href="https://youtu.be/xk3BvNLeNgw?si=BhLOG5a4ajaZ34mZ"><em>Hang Massive - Once Again - 2011 ( hang drum duo ) ( HD )</em></a>  <div class="video-container"><iframe src="https://www.youtube.com/embed/xk3BvNLeNgw" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+</li>
+<li><p><a class="link"   href="http://www.xuansoundhandpan.com/artist.asp" >石磊<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a class="link"   href="https://www.bilibili.com/read/cv24367410/" >完整版手碟品类分享，这一篇就够了｜石磊和手碟<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="http://big5.xinhuanet.com/gate/big5/m.xinhuanet.com/sh/2020-10/29/c_139474799.htm" >上海夫妻十年收藏1000件世界各地稀有樂器<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+</ul>
+<p>More from:</p>
+<ul>
+<li><p><a class="link"   href="https://handpanjapan.com/band/" >Directory<i class="fas fa-external-link-alt"></i></a> by <a class="link"   href="https://handpanjapan.com/" >handpanjapan.com<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.last.fm/tag/hang+drum/artists" >Directory<i class="fas fa-external-link-alt"></i></a> by <a class="link"   href="https://www.last.fm/" >last.fm<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.masterthehandpan.com/handpan-players-directory" >Directory<i class="fas fa-external-link-alt"></i></a> by <a class="link"   href="https://www.masterthehandpan.com/" >Master the Handpan<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://geocha-production.herokuapp.com/maps/5378-handpan-players-around-the-world" >Handpan Players Map<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>Some posts:</p>
+<ul>
+<li><a class="link"   href="https://www.sarazhandpans.com/news/famous-handpan-players-and-their-scales/" >Famous Hand Pan Players and their scales<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://www.isthmusinstruments.com/isthmus-handpan-blog/women-handpan-playlist-top-female-handpan-artists" >WOMEN OF HANDPAN PLAYLIST (SPOTIFY) &amp; 16 WOMEN HANDPAN PLAYERS TO KNOW<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://kitapantam.com/top-20-handpan-players/#" >Top 20 Handpan Players Every Player Should Know<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+</ul>
+<h2 id="播放列表"><a href="#播放列表" class="headerlink" title="播放列表"></a>播放列表</h2><ul>
+<li><p>Youtube</p>
+<ul>
+<li><p><a class="link"   href="https://youtube.com/playlist?list=PLZ1nZ3qy9XPLJrRXDhkSTYmM2Vxb-CFxw&si=wYb1H_XMiDa0uo5e" >Hang&#x2F;handpan<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/videoseries?list=PLZ1nZ3qy9XPLJrRXDhkSTYmM2Vxb-CFxw" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+</li>
+<li><p><a class="link"   href="https://www.youtube.com/@EchoSoundSculpture/playlists" >Playlists<i class="fas fa-external-link-alt"></i></a> by <a class="link"   href="https://echosoundsculptures.com/" >EchoSoundSculpture Studio<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://youtube.com/playlist?list=PLgY60kH5q80jt26sZPFfslEuNxqYVb2hx&si=uhivLJIGR63FSHMi" >Beautiful Handpan Playlist<i class="fas fa-external-link-alt"></i></a> by Austin Armstrong</p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/videoseries?list=PLgY60kH5q80jt26sZPFfslEuNxqYVb2hx" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+</li>
+<li><p><a class="link"   href="https://youtube.com/playlist?list=PLX7pS5q0brhH-KfONMZbKx_1aI15QjZEL&si=Nia2aPviIgErrPnr" >handpan<i class="fas fa-external-link-alt"></i></a> by chiefofnothingtv</p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/videoseries?list=PLX7pS5q0brhH-KfONMZbKx_1aI15QjZEL" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+</li>
+</ul>
+<h2 id="制作者"><a href="#制作者" class="headerlink" title="制作者"></a>制作者</h2><ul>
+<li><p>A <a class="link"   href="https://hardcasetechnologies.com.au/handpan-makers/" >Google map<i class="fas fa-external-link-alt"></i></a> sponsored by <a class="link"   href="https://hardcasetechnologies.com.au/" >HARDCASE TECHNOLOGIES<i class="fas fa-external-link-alt"></i></a>, also embedded <a class="link"   href="https://www.alessiohandpanselection.com/handpan-makers-worldmap/?v=f003c44deab6" >here<i class="fas fa-external-link-alt"></i></a>.</p>
+  <iframe src="https://www.google.com/maps/d/embed?mid=1h25DQtlFrl0q_8R1irCGl-tsHKs&ehbc=2E312F" width="75%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe>
+</li>
+<li><p><a class="link"   href="https://paniverse.org/handpan-makers-by-country/" >Directory<i class="fas fa-external-link-alt"></i></a> by <a class="link"   href="https://paniverse.org/" >PANIVERSE.ORG<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.masterthehandpan.com/handpan-makers-directory" >Directory<i class="fas fa-external-link-alt"></i></a> by <a class="link"   href="https://www.masterthehandpan.com/" >Master the Handpan<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>Some posts:</p>
+<ul>
+<li><a class="link"   href="https://www.sarazhandpans.com/handpan-construction/styles-maker-guide/" >Your Ultimate 2024 Guide to Handpan Styles and Makers<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://www.planethandpan.com/post/best-handpans-for-every-budget" >The Best Handpans for Every Budget.<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://coolpercussion.com/the-best-handpan/" >15 Best Handpans in the World and Which to Avoid<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+</ul>
+<h2 id="电子版"><a href="#电子版" class="headerlink" title="电子版"></a>电子版</h2><ul>
+<li><a class="link"   href="https://www.yishama.com/virtual-pantam-playground/" >Virtual Pantam Playground<i class="fas fa-external-link-alt"></i></a> by <a class="link"   href="https://www.yishama.com/" >Yishama<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+<h2 id="文章"><a href="#文章" class="headerlink" title="文章"></a>文章</h2><ul>
+<li><p>an article in PHYSICS TODAY and some papers from Thomas Rossing and&#x2F;or the creators of HANG:</p>
+<ul>
+<li><p>The Extraordinary sound of the hang by Andrew Morrison and Thomas D. Rossing </p>
+<ul>
+<li>online article: <a class="link"   href="https://physicstoday.scitation.org/doi/10.1063/1.3099586" >https://physicstoday.scitation.org/doi/10.1063/1.3099586<i class="fas fa-external-link-alt"></i></a>. </li>
+<li>pdf: <a class="link"   href="https://physicstoday.scitation.org/doi/pdf/10.1063/1.3099586" >https://physicstoday.scitation.org/doi/pdf/10.1063/1.3099586<i class="fas fa-external-link-alt"></i></a>.</li>
+</ul>
+</li>
+<li><p>FURTHER READING</p>
+<ul>
+<li>T. D. Rossing, D. S. Hampton, U. J. Hansen,“Music From Oil Drums: The Acoustics of the Steel Pan,” Physics Today, March 1996, p. <a class="link"   href="https://doi.org/10.1063/1.881489" >https://doi.org/10.1063/1.881489<i class="fas fa-external-link-alt"></i></a></li>
+<li>T. R. Moore,“A Simple Design for an Electronic Speckle Pattern Interferometer,” Am. J. Phys. 72, 1380 (2004). <a class="link"   href="https://doi.org/10.1119/1.1778396" >https://doi.org/10.1119/1.1778396<i class="fas fa-external-link-alt"></i></a></li>
+<li>B. Copeland, A. Morrison, T. D. Rossing,“Sound Radiation from Caribbean Steelpans,” J. Acoust. Soc. Am. 117, 375 (2005). <a class="link"   href="https://doi.org/10.1121/1.1803574" >https://doi.org/10.1121/1.1803574<i class="fas fa-external-link-alt"></i></a></li>
+<li>A. Morrison,“Constructing and Using a Low Cost Speckle Pattern Interferometer for Analysis of Musical Instruments,” J. Acoust. Soc. Am. 124, 2510 (2008).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>ISMA2007:</p>
+<ul>
+<li>ACOUSTICS OF THE HANG: A hand-played steel instrument by Thomas D. Rossing, Andrew Morrison, Uwe Hansen, Felix Rohner, and Sabina Schärer<ul>
+<li>Pdf: <a class="link"   href="http://www.hangblog.org/panart/2-S2-4-IsmaRossing.pdf" >http://www.hangblog.org/panart/2-S2-4-IsmaRossing.pdf<i class="fas fa-external-link-alt"></i></a>.</li>
+</ul>
+</li>
+<li>HISTORY, DEVELOPMENT AND TUNING OF THE HANG by Felix Rohner and Sabina Schärer<ul>
+<li>Pdf: <a class="link"   href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.553.3746&rep=rep1&type=pdf" >https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.553.3746&amp;rep=rep1&amp;type=pdf<i class="fas fa-external-link-alt"></i></a>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>155th Meeting of Acoustical Society of America, Paris, France, 2008</p>
+<ul>
+<li>Sound of the HANG by David Wessel, Andrew Morrison and Thomas D. Rossing<ul>
+<li>Webpage: <a class="link"   href="https://acoustics.org/pressroom/httpdocs/155th/wessel.htm" >https://acoustics.org/pressroom/httpdocs/155th/wessel.htm<i class="fas fa-external-link-alt"></i></a>;</li>
+<li>Publications: <a class="link"   href="https://www.cnmat.berkeley.edu/publications/sound-hang" >https://www.cnmat.berkeley.edu/publications/sound-hang<i class="fas fa-external-link-alt"></i></a>, <ul>
+<li>Pdf: <a class="link"   href="https://www.cnmat.berkeley.edu/sites/default/files/attachments/2008_Sound_of_the_Hang.pdf" >https://www.cnmat.berkeley.edu/sites/default/files/attachments/2008_Sound_of_the_Hang.pdf<i class="fas fa-external-link-alt"></i></a>,</li>
+<li>Pdf: <a class="link"   href="http://webistem.com/acoustics2008/acoustics2008/cd1/data/articles/002762.pdf" >http://webistem.com/acoustics2008/acoustics2008/cd1/data/articles/002762.pdf<i class="fas fa-external-link-alt"></i></a>;</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>A MSc Research by Eyal Alon at University of York:</p>
+<ul>
+<li>Analysis and Synthesis of the Handpan Sound by Eyal ALON<ul>
+<li>Pdf: <a class="link"   href="http://etheses.whiterose.ac.uk/12260/1/EyalMSc.pdf" >http://etheses.whiterose.ac.uk/12260/1/EyalMSc.pdf<i class="fas fa-external-link-alt"></i></a>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>A doctoral thesis by Ahkok Chun-Kwok Wong at City, University of London</p>
+<ul>
+<li>The History, Development and Global Dissemination of the Hang&#x2F;Handpan<ul>
+<li>pdf: <a class="link"   href="https://openaccess.city.ac.uk/id/eprint/32744/" >https://openaccess.city.ac.uk/id/eprint/32744/<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ul>
+<li><p><a class="link"   href="https://www.swissinfo.ch/eng/culture/life-changing-a-chimera-or-just-a-drum/38515012" >Life-changing, a chimera or just a drum?<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li>in Chinese: <a class="link"   href="https://www.swissinfo.ch/chi/culture/%E6%94%B9%E5%8F%98%E7%94%9F%E5%91%BD-%E5%AB%81%E6%8E%A5%E6%80%AA%E7%89%A9-%E4%BA%A6%E6%88%96%E4%BB%85%E4%BB%85%E6%98%AF%E5%8F%AA%E9%BC%93/38562590" >改变生命，嫁接怪物，亦或仅仅是只鼓？<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><p><a class="link"   href="https://news.sina.cn/gn/2019-01-16/detail-ihqfskcn7707404.d.html" >制“锅”青年张桦：自学成才的手碟匠人<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://mp.weixin.qq.com/s/4GulNEj_Tr8-Ye5jnTbqDg" >手碟历史上的国际5大品牌的调式排列（全）<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+</ul>
+<h2 id="影视片段"><a href="#影视片段" class="headerlink" title="影视片段"></a>影视片段</h2><ul>
+<li><p>From the movie <em><a class="link"   href="https://fr.wikipedia.org/wiki/La_Vie_d%27Ad%C3%A8le_:_Chapitres_1_et_2" >La vie d’Adèle – Chapitres 1 &amp; 2 (Blue is the Warmest Color)<i class="fas fa-external-link-alt"></i></a></em></p>
+<ul>
+<li><p><a class="link"   href="https://www.youtube.com/watch?v=B2oTGaKkpdU" >LA VIE D’ADELE - Abdellatif Kechiche - Clip 1 - Nu op DVD &amp; VOD<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/B2oTGaKkpdU" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+</li>
+<li><p><a class="link"   href="https://www.youtube.com/watch?v=3Ip0pPms_EI" >the bluewalk<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/3Ip0pPms_EI" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+<p>  Note: is the song called “A Que Bueno” by Klaïm? According to the film end credits :<br>  <img  
+                       lazyload
+                       alt="image"
+                       data-src="/cn/images/La%20vie%20d'Ade%CC%80le%20-%20credit.png"
+                        class="" width="100" title="movie credits Screenshot from the movie credits."
+                 ></p>
+<ul>
+<li><p>from an article <em><a class="link"   href="https://www.allocine.fr/article/fichearticle_gen_carticle=18628213.html" >“La Vie d’Adèle” : 5 anecdotes méconnues sur le film<i class="fas fa-external-link-alt"></i></a></em> (Google Translate: <em>“La Vie d’Adèle”: 5 little-known anecdotes about the film</em>):</p>
+<blockquote>
+<p>Si on a beaucoup parlé de la présence de la chanson I follow rivers de Lykke Li, on sait moins de choses sur les musiques instrumentales qui habillent certaines scènes du film, notamment celle du premier regard échangé entre Adèle et Léa. L’instrument que l’on entend s’appelle un hang (ou hang drum).</p>
+</blockquote>
+<blockquote>
+<p>“Un jour par hasard, j’ai rencontré un musicien qui jouait d’un instrument qui avait un son très mélancolique et en le mettant dans la scène j’ai pensé que ça pourrait créer cette émotion forte pendant la rencontre. Je crois que la musique à ce moment-là participe de l’émotion dans la rencontre”, a expliqué Abdellatif Kechiche lors d’une conférence de presse au New York Film.</p>
+</blockquote>
+<p>  Google Translate:<br>  <em>While much has been said about the presence of the song I follow rivers by Lykke Li , less is known about the instrumental music that adorns certain scenes in the film, notably that of the first glance exchanged between Adèle and Léa. The instrument that we hear is called a hang (or hang drum).</em></p>
+<p>  <em>“One day by chance, I met a musician who played an instrument that had a very melancholic sound and by putting it in the scene I thought that it could create this strong emotion during the meeting. I believe that the music at that moment participates in the emotion in the meeting ,” explained Abdellatif Kechiche during a press conference at New York Film.</em></p>
+</li>
+<li><p>More from Klaim&#x2F;Klaïm:</p>
+<ul>
+<li><p>A short bio <a class="link"   href="https://www.yogafestival.fr/view/content/intervenant/1060-klaim" >Klaim<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.youtube.com/watch?v=aaXnTVsraEc" >Meet Klaim | Street Hang Drum Artist<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/aaXnTVsraEc" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+</li>
+<li><p>A youtube playlist <a class="link"   href="https://www.youtube.com/playlist?list=PL5_NxEdVS-aAZqO1ImMuEkFBFmfXdC3mK" >Klaïm Hang<i class="fas fa-external-link-alt"></i></a></p>
+  <div class="video-container"><iframe src="https://www.youtube.com/embed/videoseries?list=PL5_NxEdVS-aAZqO1ImMuEkFBFmfXdC3mK" frameborder="0" loading="lazy" allowfullscreen></iframe></div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>手碟</category>
+      </categories>
+      <tags>
+        <tag>handpan</tag>
+        <tag>Hang®</tag>
+        <tag>手碟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/cn/2022/02/20/hello-world/</url>
+    <content><![CDATA[<!-- more -->
+
+<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+      <categories>
+        <category>杂七杂八</category>
+      </categories>
+      <tags>
+        <tag>有的没的</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇博客文章 My First Blog Post</title>
+    <url>/cn/2024/07/02/my-first-blog-post/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">main( ) &#123;</span><br><span class="line">        printf(&quot;hello, world&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<!-- more -->
+
+<div align="right">
+  语言：简体中文 | 
+  <a title="English" href="../../../../../2024/07/02/my-first-blog-post/">English</a>
+</div>
+
+<hr>
+<p>其实早就想建立一个属于自己的网站，把自己的经历，想法，和生活点滴，都放在一起。我去过的地方，拍过的照片，遇见过的人和事，都想记录下来。电子日记吧，就像是。但迟迟没有开始。其实现在也不是一个好时机，我有更重要的事情做。可是我不想做。于是我出现在了这里。</p>
+<p>我不想暴露太多隐私，但或许我们都早已在互联网的世界“裸奔”罢。不谈论家庭，朋友，他人，只讲述自己。是不是很难？我深知我的水平有限。我不知道除了我自己谁还会看，谁会在意。也许只有我，也足矣。</p>
+<p>童年的许多经历早已忘却，也无从想起。如果没有文字，没有影像，没有记忆，还能如何再现往日的时光？我无从知晓。或许我只是想留下些什么。这个公开的网站是一个开始，希望不是结束。</p>
+]]></content>
+      <categories>
+        <category>关于我</category>
+      </categories>
+      <tags>
+        <tag>有的没的</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Luggage Service</title>
+    <url>/cn/2024/07/17/luggage-service/</url>
+    <content><![CDATA[<p>From: Sweden<br>To: Canada</p>
+<ul>
+<li><p><a class="link"   href="https://www.sendmybag.com/en-gb/quote/" >send my bag<i class="fas fa-external-link-alt"></i></a></p>
+  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Express</span><br><span class="line">2-3 Working Days</span><br><span class="line"></span><br><span class="line">Price per item</span><br><span class="line">Up to 5kg</span><br><span class="line">1 062,00 kr</span><br><span class="line">Up to 15kg</span><br><span class="line">1 920,00 kr</span><br><span class="line">Up to 30kg</span><br><span class="line">3 172,00 kr</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><a class="link"   href="https://www.mybaggage.com/quote?quote=SE,CA" >my baggage<i class="fas fa-external-link-alt"></i></a></p>
+  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Express</span><br><span class="line"></span><br><span class="line">Delivery Speed</span><br><span class="line"></span><br><span class="line">2 - 4 Days</span><br><span class="line"></span><br><span class="line">Flexible booking options available</span><br><span class="line"></span><br><span class="line">Price per item</span><br><span class="line"></span><br><span class="line">€311</span><br><span class="line">Up to 20kg</span><br><span class="line">€432</span><br><span class="line">Up to 30kg</span><br><span class="line">+ €14.40 Per Kg Over 30kg</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><a class="link"   href="https://www.sevenseasworldwide.com/international-shipping/sweden/sweden-to-canada/" >Seven Seas Worldwide<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.movehub.com/se/international-shipping/canada/" >Move Hub<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.eurosender.com/en/gdd/shipping-sweden-canada" >euro sender<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.parcelabc.com/shipment-fc1/send-a-parcel-from-sweden-to-vancouver/39/2868/211" >parcel abc<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.shipgo.com/luggage-delivery-air-canada" >ship go<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>有的没的</category>
+        <category>旅行</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>旅行</tag>
+        <tag>行李</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Random Thoughts 0718 - Tattoo</title>
+    <url>/cn/2024/07/18/random-0718/</url>
+    <content><![CDATA[<ul>
+<li><p>在健身的时候看见窗外的chemistry楼上的化学元素chemical formula 比如H2O之类 我突然在想 是不是解释一些事情的时候 归根到底是元素 比如 声音的传播 声音是pressure fluctuation of particles 那么不同的环境下 比如真空就没有air particles 就传播不了 然后温度 天气热 可能空气粒子密度大 就传播更快吗？冷的时候就更慢吗？还是什么。然后写这个的时候又想到Alexandra的thesis 在ice hockey场地的测量 温度对声音传播的影响 向上向下 速度 等等 很多事情都是相通的 或者相辅相成的 物理 化学 等等 暂时想到这些。</p>
+</li>
+<li><p>今天坐在家里想到。。。忘记了 想起来再记录</p>
+</li>
+<li><p>在刷牙的时候想到纹身 或许是被theresia的耳朵上的想到的 我突然想留下一些印记 在瑞典 在哥德堡。我在想什么是不会后悔的，我不知道。我在想爱心？不是实心的 就一个爱心的轮廓 在耳垂上？我以为会不痛 当刚刚搜了下 看了一个帖子：<a class="link"   href="https://tattooing101.com/learn/tips-advice/everything-you-need-to-know-about-ear-tattoos/" >Everything You Need to Know About Ear Tattoos<i class="fas fa-external-link-alt"></i></a>，这里写可能会非常痛，而且因为expose to the sun所以会非常快fade</p>
+<ul>
+<li><p>为什么？tattoo的原理是什么？要注意什么？</p>
+<ul>
+<li>Mayo Clinic <a class="link"   href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/tattoos-and-piercings/art-20045067" >Tattoos: Understand risks and precautions<i class="fas fa-external-link-alt"></i></a></li>
+<li>Healthline <a class="link"   href="https://www.healthline.com/health/tattoo-side-effects" >What Are the Risks of Getting a Tattoo?<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://manmatters.com/blog/tattoo-side-effects/" >Tattoo Side Effects: Is Tattoo Good or Bad?<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><p>tattoo的历史？</p>
+<ul>
+<li>wikipedia <a class="link"   href="https://en.wikipedia.org/wiki/History_of_tattooing" >History of tattooing<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://www.smithsonianmag.com/history/tattoos-worldwide-history-144038580/" >The Worldwide History of Tattoos<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://www.psychologs.com/the-psychology-behind-body-art/" >Tattoos: The Psychology Behind Body Art<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link"   href="https://www.jstor.org/stable/41421610?saml_data=eyJzYW1sVG9rZW4iOiJiMWQ0NGNmNi0xOTBiLTQyNzQtOWEzNy1kMjA1MWZhYjdlZTMiLCJpbnN0aXR1dGlvbklkcyI6WyJjYzY1MWYzNC1iYzhjLTQxODQtYjc3ZS05NDQ4Mzg3Y2ZjZWIiXX0" >THE TATTOO: A SOCIAL PSYCHOLOGICAL EXPLANATION<i class="fas fa-external-link-alt"></i></a>  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Author(s): JOHN H. COPES and CRAIG J. FORSYTH</span><br><span class="line">Source: International Review of Modern Sociology , Autumn 1993, Vol. 23, No. 2</span><br><span class="line">(Autumn 1993), pp. 83-89</span><br><span class="line">Published by: International Journals</span><br><span class="line">Stable URL: https://www.jstor.org/stable/41421610</span><br></pre></td></tr></table></figure></li>
+</ul>
+</li>
+<li><p>为什么中国政府这么against tattoo？他是有什么危害吗？</p>
+<ul>
+<li><a class="link"   href="https://teach-english-in-china.co.uk/tattoos-in-china-dispelling-the-myth/" >Tattoos in China: Dispelling the Myth<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+<p>  或许我也有点刻板印象了。民间基本上不会怎么样。电视里，主流媒体里别出现就好。cover一下。</p>
+</li>
+<li><p>突然想到看过的一个视频 在中国某地 村子里 女人被迫在脸上纹身 据说这样就不会逃跑 或者被外村人抢走 类似的原因 这种特别不尊重人的历史。</p>
+<ul>
+<li><p>维基百科 <a class="link"   href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BA%B9%E8%BA%AB" >中國的紋身<i class="fas fa-external-link-alt"></i></a>:</p>
+<blockquote>
+<p>中國的「獨龍族」文化<br>獨龍族是中國人口較少的少數民族之一，聚居在雲南省的西北部，位於高黎貢山國家級自然保護區和三江併流世界遺產區內，是雲南省人口最少的民族，使用獨龍語；原有群婚家庭的習俗，現已不存在， 崇尚萬物有靈論。獨龍族少女有紋面的習慣，有時被稱為中國「最後的紋身女性」。[13]</p>
+<p>獨龍族姑娘每逢金釵之年之年古代女子十二歲）就要進行紋面象徵自己成年。紋身的過程包括用竹籤在眉毛、鼻子、臉頰和嘴周圍的菸灰中描繪獨特的圖案，然後用刺或針沿著圖案刺。每次刺傷後，都要擦去血跡，並塗上灰燼或草汁，以便血液能夠進入刺傷處。由於針孔很小，因此紋身至少需要十天才能完成。結痂後，臉上會留下永久性的青紫色痕跡。[14]</p>
+<ol>
+<li>在中國的歷史上，西藏土司察瓦龍每年都會要求獨龍族上繳貢品。如果獨龍族的人們無力支付，獨龍族的婦女就會被綁架，淪為奴隸。為了避免遭奴役，獨龍族的婦女們採取自殘的方式被動自救，比如用大麻煙塗抹臉頰，就是在臉上紋身，以嚇唬潛在的綁架者。久而久之，獨龍族的婦女就形成了紋面的習俗。</li>
+<li>這一習俗也可能與獨龍族的圖騰崇拜有關，但這種圖騰崇拜現已消失。</li>
+<li>除此之外，這一習俗還可能起源於美的象徵。現代社會的獨龍族婦女，被稱為「最後的文身女」，是獨龍江正在消失的「財富」。</li>
+</ol>
+<p>學者認為第一種理論最有說服力，從近三百年的歷史中可以看到，藏族土司和傈僳族的奴隸主不斷侵入獨龍族地區，對獨龍族人民進行了殘酷的剝削和壓榨。[15]</p>
+</blockquote>
+</li>
+<li><p>other articles about tattoo in china</p>
+<ul>
+<li><a class="link"   href="https://edition.cnn.com/style/article/china-tattoo-crackdown-intl-hnk/index.html" >中国打击纹身文化的内幕<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>other relevant articles</p>
+<ul>
+<li><a class="link"   href="https://www.army.mil/article/257828/army_eases_tattoo_restrictions_with_new_policy" >Army eases tattoo restrictions with new policy<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>有的没的</category>
+      </categories>
+      <tags>
+        <tag>灵感</tag>
+        <tag>想法</tag>
+        <tag>纹身</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>风靡一时的西餐厅/咖啡馆还在吗</title>
+    <url>/cn/2024/07/30/random-0730/</url>
+    <content><![CDATA[<p>今天突然想到，小时候随处可见的以“咖啡”命名、本质上是休闲餐饮的饭店，还在吗？都去哪儿了？</p>
+<p>小时候大概是小学左右（2006-2012之间？）。好像有段时间很喜欢去所谓的西餐厅吃牛排，听钢琴曲。印象中是live的，也不确定是不是。没想起来名字，在百度知道的问答里面找到了一些名字：</p>
+<p><a class="link"   href="https://zhidao.baidu.com/question/180688649.html" >【南昌哪里的西餐厅或酒店有钢琴】<i class="fas fa-external-link-alt"></i></a></p>
+<blockquote>
+<p>南昌哪里的西餐厅或酒店有钢琴<br>南昌哪里的西餐厅或酒店有钢琴,希望有准确的地址和相关信息 谢谢了<br>咖啡厅的具体位置在哪呀？问题不是问店名啦 麻烦知道的告诉下地址嘛</p>
+<p>百度网友c5f03e2ef<br>2010-09-07 · 超过14用户采纳过TA的回答<br>坛子口富豪大酒店</p>
+<p>radardx<br>2010-09-08 · TA获得超过397个赞<br>江大南路（靠近北口）“好缘来”餐厅</p>
+<p>空气消毒机<br>2010-09-03 · TA获得超过2803个赞<br>老树咖啡 迪欧咖啡 好像在南昌走着走着都会见····呵呵 常经过的一个地方就在广电分理处那里有····</p>
+</blockquote>
+<p>然后搜到这篇文章：<a class="link"   href="http://www.360doc.com/content/22/0430/09/32730899_1029091036.shtml" >【早已“清零”的【迪欧咖啡】】<i class="fas fa-external-link-alt"></i></a>：</p>
+<blockquote>
+<p>伴随着迪欧的消逝，南昌其它冠以咖啡为名的休闲餐饮纷纷相继“殉情”。</p>
+<p>起源于民德路八一公园旁的【上岛咖啡】，</p>
+<p>广场东路恒茂国际华城旁的【卡伦比】，</p>
+<p>习惯隐藏在商业综合体里的【秀玉红茶坊】等都陆续消失。</p>
+<p>如今与迪欧“辈分相同”，迄今倔强存在的</p>
+<p>好像只有福州上那一家【老树咖啡】，但也形单影只，生意以及影响似乎已大不如从前。</p>
+</blockquote>
+<p>更多：</p>
+<p><a class="link"   href="https://www.sohu.com/a/24839575_115106" >【西安饮食收购迪欧咖啡，台式咖啡馆何去何从】<i class="fas fa-external-link-alt"></i></a></p>
+<blockquote>
+<p>台 式咖啡最早进入大陆市场，可以说是填补市场空白。我为什么把名典放在上岛前面，一是名典95年进入大陆，时间上早于上岛98年，二是发展模式上，名典走直 营+加盟结合的路线，全国14个省级分公司，管理团队比较健全相对规范，直营店100多家，加盟店1000多家；而上岛一直以加盟为主的路线，直营店很 少，基本上每个省开一家旗舰店后就开始放加盟，发展快规模近3000家店，故知名度反而高于名典。其后8个股东闹分家，诞生出迪欧、两岸、米萝等品牌，才 有了文章开始的西安饮食收购迪欧咖啡。</p>
+<p>转折从2005年开始，随着国人生活水平的提升带来个性化消费，以及 星巴克为首的欧美连锁咖啡携资金与管理能力开始攻城掠池，此消彼长台式咖啡馆便开始下滑，加上11年后韩式咖啡同样走加盟路线（现在也渐露颓势）直接抄了 后路，便节节败退，从一线退至二线、三线，甚至四五线市场。</p>
+</blockquote>
+<p>其他：<br><a class="link"   href="https://zhidao.baidu.com/question/212444394.html" >【南昌有什么小吃.要比较有特色,比较实惠的】<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+      <categories>
+        <category>有的没的</category>
+      </categories>
+      <tags>
+        <tag>想法</tag>
+        <tag>疑惑</tag>
+        <tag>餐饮</tag>
+        <tag>记忆</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sound Localization</title>
+    <url>/cn/2024/07/17/sound-localization/</url>
+    <content><![CDATA[<p>origin: saw a RED video about localizing the gunshot using microphones, started with the trump event - a failed assassination attempt</p>
+<p>in the video, it showed the microphone array (4 mics) that was used, about time delay</p>
+<p>i want to understand it. like:</p>
+<ol>
+<li>minimum number of microphones<br>1.1 to work with 2d? 3d?</li>
+</ol>
+<p>in the lectures from MPSOV, ELE lecture (maybe also ata lecture), we can feel the direction based on either time delay or loudness difference between the two ears, and Jens demonstrated with the two loudspeakers in the lecture room</p>
+<hr>
+<p>theories and more details to be updated.</p>
+<hr>
+<p>some resources:</p>
+<p>from chat gpt:</p>
+<blockquote>
+<p>how to know where shots are coming from? what are the techniques used in real life?</p>
+</blockquote>
+<blockquote>
+<p>ChatGPT <br>Determining the origin of gunfire in real-life situations can be crucial for both personal safety and tactical response. Here are some techniques and methods used in real-life scenarios to locate the source of gunfire:</p>
+<ol>
+<li>Sound Localization <br>Use Your Ears: Gunshots produce a distinct sound that can often be localized. Listen carefully to the direction from which the sound is coming. The direction and distance can be estimated based on the sound’s intensity and echo. <br>Shot Directionality: The sound of a gunshot can be influenced by environmental factors like wind, terrain, and buildings. Generally, the sound will travel further in open areas and can be distorted or blocked by obstacles in urban settings.</li>
+<li>Use of Acoustic Tools<br>Acoustic Sensors: Advanced systems like ShotSpotter use a network of microphones to detect, triangulate, and pinpoint the location of gunfire. These systems are typically used by law enforcement agencies in urban areas. <br>Directional Microphones: In some tactical situations, specialized microphones can help determine the direction of gunfire by picking up the sound from different angles.</li>
+<li>Observational Techniques<br>Visual Observation: Look for smoke or dust that might be created by gunfire, especially if you are close to the source. In urban environments, muzzle flashes may be visible at night or in low light. <br>Flash Detection: During night operations, the flash from a gunshot can be seen even if the gunfire is not heard immediately. Specialized night-vision devices or thermal cameras can help detect these flashes.</li>
+<li>Tactical Techniques <br>Cover and Concealment: When under fire, seek cover and concealment. Use terrain, buildings, or other structures to protect yourself while you assess the situation. <br>Listen for the Impact: Pay attention to where bullets are impacting or ricocheting. The direction of the impacts can give clues about the shooter’s location. <br>Movement: Observe the movement of people around you. Sometimes, people’s reactions or the direction they flee from can provide hints about the direction of the gunfire.</li>
+<li>Technological Aids <br>Drones: Drones equipped with cameras and microphones can be deployed to help locate the source of gunfire in real-time, providing aerial perspectives that are otherwise difficult to obtain. <br>Mapping and GPS: Modern systems can integrate data from various sensors and provide a mapped location of gunfire, helping responders navigate and approach the situation more effectively.</li>
+<li>Training and Experience <br>Firearms Training: Law enforcement and military personnel often undergo training to recognize and respond to gunfire. They learn to quickly identify the direction and distance of gunshots based on sound and visual cues. <br>Field Exercises: Regular field exercises and simulations can help improve the ability to pinpoint the origin of gunfire. This training can be essential for making quick decisions in high-stress situations.</li>
+<li>Communications <br>Coordination with Others: In many tactical situations, communicating with others (e.g., team members, law enforcement) can help piece together information about the gunfire’s origin based on multiple perspectives.</li>
+</ol>
+<p>Key Points to Remember <br>Safety First: Always prioritize your safety and seek cover first before trying to locate the source of gunfire. <br>Real-time Decisions: Being able to quickly assess the direction and origin of gunfire is crucial for making informed decisions on how to react.<br>Practice and Training: Regular practice and training in sound localization and tactical response can significantly improve your ability to identify the source of gunfire effectively. \</p>
+<p>These techniques and tools are employed to enhance the safety and effectiveness of individuals and teams in high-risk situations.</p>
+</blockquote>
+<p>about shotspotter (now called sound thinking):</p>
+<ul>
+<li><p>website, blog <a class="link"   href="https://www.soundthinking.com/blog/" >SoundThinking Blog<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>washington d.c. data: <a class="link"   href="https://mpdc.dc.gov/publication/shotspotter-data-disclaimer-and-dictionary" >ShotSpotter Data, Disclaimer and Dictionary<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>about the founder <a class="link"   href="https://www.aps.org/archives/publications/apsnews/201806/gunfire.cfm" >Physicist Pinpoints Urban Gunfire<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>an article, <a class="link"   href="https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/" >secret location of the sensors<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>another company, article <a class="link"   href="https://www.qinetiq.com/en-us/what-we-do/services-and-products/ears-gunshot-localization-systems" >EARS Gunshot Localization Systems<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>another company: <a class="link"   href="https://www.microflown-avisa.com/solutions/vehicle-survivability/aclogus" >microflown avisa<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+</ul>
+<p>about sound localization (on gunshots):</p>
+<ul>
+<li><p>a paper <a class="link"   href="https://www.researchgate.net/publication/299126526_On_acoustic_gunshot_localization_systems" >On acoustic gunshot localization systems<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>a master thesis <a href="https://digital.auraria.edu/files/pdf?fileid=e562b890-41f9-4170-a13b-27b07d1f1626">AUDIO GUNSHOT DETECTION AND LOCALIZATION SYSTEMS:<br>HISTORY, BASIC DESIGN, AND FUTURE POSSIBILITIES</a></p>
+</li>
+<li><p>a master thesis, lund university <a class="link"   href="https://www.lunduniversity.lu.se/lup/publication/8953047" >Detection and Localisation of Gunshots Using Sound Data<i class="fas fa-external-link-alt"></i></a></p>
+<ul>
+<li><a class="link"   href="https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8953047&fileOId=8953062" >pdf<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+</li>
+<li><p>a paper <a class="link"   href="https://ieeexplore.ieee.org/document/4425280" >Scream and gunshot detection and localization for audio-surveillance systems<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>a paper <a class="link"   href="https://link.springer.com/chapter/10.1007/978-3-031-09073-8_32" >Evaluation of Acoustic Gunshot Localization Methods on Helicopters with Environmental Sound Simulations<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>a paper <a class="link"   href="https://arxiv.org/abs/2210.05917" >Enemy Spotted: in-game gun sound dataset for gunshot classification and localization<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>a paper <a class="link"   href="https://ieeexplore.ieee.org/document/9857861" >Gunshots Localization and Classification Model Based on Wind Noise Sensitivity Analysis Using Extreme Learning Machine<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+</ul>
+<p>… and many more, here is only the first page of the google search “Sound Localization gunshot”</p>
+<p>youtube videos</p>
+<ul>
+<li><p>a student design <a class="link"   href="https://www.youtube.com/watch?v=hxsMbl1AFXw" >Impulse sound tracker<i class="fas fa-external-link-alt"></i></a>, read more <a class="link"   href="https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2013/agw39_mag338/agw39_mag338/agw39_mag338/agw39_mag338.html" >here<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>a presentation <a class="link"   href="https://www.youtube.com/watch?v=Z7X7lf6FdYY" >Where did that come from? An introduction to Sound Localisation<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>sound localization explained <a class="link"   href="https://www.youtube.com/watch?v=yza-hpIubxQ" >sound localization<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>a lecture <a class="link"   href="https://www.youtube.com/watch?v=Mi3Guybisxw" >Perception: 10.2 - Localizing Sounds<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>another lecture <a class="link"   href="https://www.youtube.com/watch?v=Pabsb8mH_RI" >Sound Localization<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>a demo by pcb <a class="link"   href="https://www.youtube.com/watch?v=03lOj8mxaYU" >Directivity Patterns in Acoustic Testing - Demonstration<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p>looks like promos</p>
+<ul>
+<li><p><a class="link"   href="https://www.youtube.com/watch?v=-gm1zmgUzj4" >Acoustic Emission source location with VS150-RIC sensors and Vallen VisualAE visualization<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+<li><p><a class="link"   href="https://www.youtube.com/watch?v=XCwmHa8cDvo" >Gunshot detection and&#x2F;or hostile fire indication system<i class="fas fa-external-link-alt"></i></a></p>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>有的没的</category>
+        <category>声学</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>声学</tag>
+      </tags>
+  </entry>
+</search>

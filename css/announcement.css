@@ -1,0 +1,24 @@
+/* Override the shake animation for .icon.left */
+.website-announcement .icon.left {
+  content: url('../images/chat-bubble-with-quotation-marks-svgrepo-com.svg'); /* Change this path to your new icon */
+  font-size: 1.2rem; /* This will not affect SVG size */
+  width: 24px; /* Adjust the width to fit your layout */
+  height: 24px; /* Adjust the height to fit your layout */
+  background-size: contain; /* Ensure the icon fits within the dimensions */
+  display: inline-block; /* Ensures the SVG is displayed properly */
+  animation: none !important; /* This will remove the shake animation */
+  /* Or apply a new animation */
+}
+
+/* Ensure that your CSS selector matches the element that holds the icon */
+.website-announcement .announcement {
+  white-space: normal !important; /* Allow text to wrap */
+  overflow: visible !important; /* Ensure text is not truncated */
+  text-overflow: clip !important; /* Ensure text does not show ellipsis */
+}
+
+.website-announcement p {
+  white-space: normal !important; /* Allow text to wrap */
+  overflow: visible !important; /* Ensure text is not truncated */
+  text-overflow: clip !important ; /* Ensure text does not show ellipsis */
+}
